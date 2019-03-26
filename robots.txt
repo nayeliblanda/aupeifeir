@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taishohve.druid.io/sitemap.xml
